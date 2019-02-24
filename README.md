@@ -1,1 +1,1 @@
-# exerciseData
+# exercise datasets for course CS-E5745 Mathematical Methods for Network Science
